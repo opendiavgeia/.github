@@ -4,13 +4,11 @@
 
 Το opendiavgeia.com είναι μια ανεξάρτητη αναζήτηση στη Διαύγεια: τι πλήρωσε κάθε φορέας, σε ποιον και πότε, με σύνδεσμο στην απόφαση από την οποία προκύπτει κάθε ποσό.
 
-| | |
-| --- | --- |
-| **Site** | [opendiavgeia.com](https://opendiavgeia.com) |
-| **Ask AI** | [opendiavgeia.com/ask](https://opendiavgeia.com/ask), questions in Greek or English |
-| **MCP server** | `https://opendiavgeia.com/mcp`, for Claude, ChatGPT, Cursor and VS Code ([setup](https://github.com/opendiavgeia/mcp)) |
-| **For AI assistants** | [opendiavgeia.com/llms.txt](https://opendiavgeia.com/llms.txt) |
-| **Contact** | contact@opendiavgeia.com |
+- **Site:** [opendiavgeia.com](https://opendiavgeia.com)
+- **Ask AI:** [opendiavgeia.com/ask](https://opendiavgeia.com/ask), questions in Greek or English
+- **MCP server:** `https://opendiavgeia.com/mcp`, for Claude, ChatGPT, Cursor and VS Code ([setup](https://github.com/opendiavgeia/mcp))
+- **For AI assistants:** [opendiavgeia.com/llms.txt](https://opendiavgeia.com/llms.txt)
+- **Contact:** contact@opendiavgeia.com
 
 ### Data
 
